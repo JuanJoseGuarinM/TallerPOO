@@ -1,0 +1,20 @@
+{
+  "name": "cajero-automatico",
+  "version": "1.0.0",
+  "description": "Taller POO + TypeScript: Sistema de Cajero Automatico",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "typescript",
+    "poo",
+    "cajero"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
